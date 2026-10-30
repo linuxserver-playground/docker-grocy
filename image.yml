@@ -17,6 +17,9 @@ upstream:
   notes:
     type: github_release
     repo: grocy/grocy
+  sponsor:
+  - name: grocy
+    url: https://grocy.info/#say-thanks
 
 release:
   branch: master
